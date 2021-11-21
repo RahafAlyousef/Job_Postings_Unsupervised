@@ -18,16 +18,16 @@ In the project, we will classify jobs based on their job description. That will 
 - Jupyter Notebook.
 
 • Libraries: 
-- Pandas 
-– NumPy 
-– Matplotlib 
-– Seaborn 
-– WordCloud 
-- plotly 
-– bokeh 
-- Pandas_profiling 
-- nltk 
-– Sklearn 
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- WordCloud
+- plotly
+- bokeh
+- Pandas_profiling
+- Sklearn
+- nltk
 - TSNE
 
 ## By:
