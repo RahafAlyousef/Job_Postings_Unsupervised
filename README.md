@@ -31,6 +31,5 @@ In the project, we will classify jobs based on their job description. That will 
 - TSNE
 
 ## By:
-Modhi Alhbrdi 
-
-Rahaf Alyousef
+- [Modhi Alhbrdi]()
+- [Rahaf Alyousef](https://github.com/rahafkh1)
